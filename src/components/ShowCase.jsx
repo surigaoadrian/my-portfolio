@@ -101,6 +101,7 @@ function ShowCase() {
             alignItems: "center",
             justifyContent: "center",
             order: { xs: 1, sm: 2 },
+            marginTop: { xs: "30px", sm: "0px" },
           }}
         >
           <Box sx={{ height: { xs: "35vh", sm: "50vh" } }}>
