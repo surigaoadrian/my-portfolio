@@ -96,7 +96,7 @@ function ShowCase() {
             minHeight: { xs: "35vh", sm: "50vh" },
             //backgroundColor: "lightblue",
             overflow: "hidden",
-            width: { xs: "80%", sm: "95%", md: "85%", lg: "82%" },
+            width: { xs: "65%", sm: "95%", md: "85%", lg: "82%" },
             display: "flex",
             alignItems: "center",
             justifyContent: "center",

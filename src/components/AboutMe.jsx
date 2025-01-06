@@ -87,7 +87,7 @@ function AboutMe() {
       style={{
         //backgroundColor: "yellow",
         minHeight: "80vh",
-        marginTop: "60px",
+        marginTop: "40px",
       }}
     >
       <Box
