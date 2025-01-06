@@ -3,9 +3,12 @@ import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import html5Logo from "../assets/html5Logo.png";
 import css3Logo from "../assets/css3Logo.png";
+import jsLogo from "../assets/jsLogo.png";
+import javaLogo from "../assets/javaLogo.png";
 import reactJsLogo from "../assets/reactJsLogo.png";
 import springBootLogo from "../assets/springBootLogo.png";
 import mySqlLogo from "../assets/mySqlLogo.png";
+import figmaLogo from "../assets/figmaLogo.png";
 import wordpressLogo from "../assets/wordpressLogo.png";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -231,7 +234,33 @@ function AboutMe() {
                     alignItems: "center",
                   }}
                 >
-                  <img src={reactJsLogo} alt="spring-boot-logo" />
+                  <img src={jsLogo} alt="javascript-logo" />
+                </div>
+              </div>
+              <div>
+                <div
+                  style={{
+                    height: "200px",
+                    width: "100%",
+                    display: "flex",
+                    justifyContent: "center",
+                    alignItems: "center",
+                  }}
+                >
+                  <img src={reactJsLogo} alt="react-logo" />
+                </div>
+              </div>
+              <div>
+                <div
+                  style={{
+                    height: "200px",
+                    width: "100%",
+                    display: "flex",
+                    justifyContent: "center",
+                    alignItems: "center",
+                  }}
+                >
+                  <img src={javaLogo} alt="java-logo" />
                 </div>
               </div>
               <div>
@@ -258,6 +287,19 @@ function AboutMe() {
                   }}
                 >
                   <img src={mySqlLogo} alt="my-sql-logo" />
+                </div>
+              </div>
+              <div>
+                <div
+                  style={{
+                    height: "200px",
+                    width: "100%",
+                    display: "flex",
+                    justifyContent: "center",
+                    alignItems: "center",
+                  }}
+                >
+                  <img src={figmaLogo} alt="figma-logo" />
                 </div>
               </div>
               <div>
