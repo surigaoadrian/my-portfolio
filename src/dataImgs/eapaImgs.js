@@ -1,0 +1,91 @@
+import eapa1 from "../assets/eapa1.png";
+import eapa2 from "../assets/eapa2.png";
+import eapa3 from "../assets/eapa3.png";
+import eapa4 from "../assets/eapa4.png";
+import eapa5 from "../assets/eapa5.png";
+import eapa6 from "../assets/eapa6.png";
+import eapa7 from "../assets/eapa7.png";
+import eapa8 from "../assets/eapa8.png";
+import eapa9 from "../assets/eapa9.png";
+import eapa10 from "../assets/eapa10.png";
+import eapa11 from "../assets/eapa11.png";
+import eapa12 from "../assets/eapa12.png";
+import eapa13 from "../assets/eapa13.png";
+import eapa14 from "../assets/eapa14.png";
+import eapa15 from "../assets/eapa15.png";
+import eapa16 from "../assets/eapa16.png";
+import eapa17 from "../assets/eapa17.png";
+import eapa18 from "../assets/eapa18.png";
+import eapa19 from "../assets/eapa19.png";
+import eapa20 from "../assets/eapa20.png";
+import eapa21 from "../assets/eapa21.png";
+import eapa22 from "../assets/eapa22.png";
+import eapa23 from "../assets/eapa23.png";
+import eapa24 from "../assets/eapa24.png";
+import eapa25 from "../assets/eapa25.png";
+import eapa26 from "../assets/eapa26.png";
+import eapa27 from "../assets/eapa27.png";
+import eapa28 from "../assets/eapa28.png";
+import eapa29 from "../assets/eapa29.png";
+import eapa30 from "../assets/eapa30.png";
+import eapa31 from "../assets/eapa31.png";
+import eapa32 from "../assets/eapa32.png";
+import eapa33 from "../assets/eapa33.png";
+import eapa34 from "../assets/eapa34.png";
+import eapa35 from "../assets/eapa35.png";
+import eapa36 from "../assets/eapa36.png";
+import eapa37 from "../assets/eapa37.png";
+import eapa38 from "../assets/eapa38.png";
+import eapa39 from "../assets/eapa39.png";
+import eapa40 from "../assets/eapa40.png";
+import eapa41 from "../assets/eapa41.png";
+import eapa42 from "../assets/eapa42.png";
+import eapa42 from "../assets/eapa43.png";
+
+const eapaImgs = [
+  { img: eapa1 },
+  { img: eapa2 },
+  { img: eapa3 },
+  { img: eapa4 },
+  { img: eapa5 },
+  { img: eapa6 },
+  { img: eapa7 },
+  { img: eapa8 },
+  { img: eapa9 },
+  { img: eapa10 },
+  { img: eapa11 },
+  { img: eapa12 },
+  { img: eapa13 },
+  { img: eapa14 },
+  { img: eapa15 },
+  { img: eapa16 },
+  { img: eapa17 },
+  { img: eapa18 },
+  { img: eapa19 },
+  { img: eapa20 },
+  { img: eapa21 },
+  { img: eapa22 },
+  { img: eapa23 },
+  { img: eapa24 },
+  { img: eapa25 },
+  { img: eapa26 },
+  { img: eapa27 },
+  { img: eapa28 },
+  { img: eapa29 },
+  { img: eapa30 },
+  { img: eapa31 },
+  { img: eapa32 },
+  { img: eapa33 },
+  { img: eapa34 },
+  { img: eapa35 },
+  { img: eapa36 },
+  { img: eapa37 },
+  { img: eapa38 },
+  { img: eapa39 },
+  { img: eapa40 },
+  { img: eapa41 },
+  { img: eapa42 },
+  { img: eapa43 },
+];
+
+export default eapaImgs;
