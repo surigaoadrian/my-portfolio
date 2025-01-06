@@ -40,7 +40,7 @@ import eapa39 from "../assets/eapa39.png";
 import eapa40 from "../assets/eapa40.png";
 import eapa41 from "../assets/eapa41.png";
 import eapa42 from "../assets/eapa42.png";
-import eapa42 from "../assets/eapa43.png";
+import eapa43 from "../assets/eapa43.png";
 
 const eapaImgs = [
   { img: eapa1 },

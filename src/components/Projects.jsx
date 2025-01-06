@@ -161,7 +161,7 @@ function Projects() {
               justifyContent: "center",
               alignItems: "center",
               flexWrap: "nowrap",
-              overflowX: { xs: "visible", md: "auto" },
+              //overflowX: { xs: "visible", md: "auto" },
               gap: 2,
               //backgroundColor: "yellow",
               overflowX: "hidden",
