@@ -3,6 +3,7 @@ import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import html5Logo from "../assets/html5Logo.png";
 import css3Logo from "../assets/css3Logo.png";
+
 import jsLogo from "../assets/jsLogo.png";
 import javaLogo from "../assets/javaLogo.png";
 import reactJsLogo from "../assets/reactJsLogo.png";
