@@ -36,7 +36,7 @@ function Footer() {
       <Box
         sx={{
           display: "flex",
-          width: { xs: "30%", sm: "12%" },
+          width: { xs: "35%", sm: "12%" },
           //backgroundColor: "lightblue",
           justifyContent: "space-around",
         }}
